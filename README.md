@@ -55,12 +55,12 @@ Allocated slot number: 4 <br />
 Allocated slot number: 5 <br />
 Allocated slot number: 6 <br />
 KA-01-HH-3141 with Slot Number 6 is free with Charge 30$ <br />
-Slot No.      Registration No       Colour <br />
-1               KA-01-HH-1234       Blue <br />
-2               KA-01-HH-9999       White <br />
-3               KA-01-BB-0001       Black <br />
-4               KA-01-HH-7777       Blue <br />
-5               KA-01-HH-2701       Yellow <br />
+Slot No.      Registration No        Colour <br />
+1               KA-01-HH-1234        Blue <br />
+2               KA-01-HH-9999        White <br />
+3               KA-01-BB-0001        Black <br />
+4               KA-01-HH-7777        Blue <br />
+5               KA-01-HH-2701        Yellow <br />
 
 Allocated slot number: 6 <br />
 Parking lot is full <br />
