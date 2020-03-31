@@ -71,9 +71,9 @@ Allocated slot number: 1 <br />
 Allocated slot number: 3 <br />
 Parking lot is full <br />
 Slot No.      Registration No       Colour <br />
-2               KA-01-HH-1234       Blue <br />
-4               KA-01-HH-9999       White <br />
-5               KA-01-BB-0001       Black <br />
-6               KA-01-HH-7777       Blue <br />
-1               KA-01-HH-2701       Yellow <br />
+2               KA-01-HH-9999       Blue <br />
+4               KA-01-HH-7777       White <br />
+5               KA-01-HH-2701       Black <br />
+6               KA-01-P-333         Blue <br />
+1               KA-09-HH-0987       Yellow <br />
 3               CA-09-IO-1111       White <br />
